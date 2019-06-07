@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+.header {
+    height: 100px;
+    width: auto;
+    margin: 0;
+    background: lightgray;
+}
+
+.logo-container {
+    height: 80px;
+    width: 80px;
+    background: rgb(92, 141, 204);
+    margin: 10px 0 10px 20px;
+    float: left;
+}
+.main-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    text-align: left;
+    margin: 60px;
+    font-weight: lighter;
+}
+.blue-stripe {
+    height: 125px;
+    width: auto;
+    background: rgb(92, 141, 204);
+}
+.aqua-stripe {
+    height: 125px;
+    width: auto;
+    background: rgb(86, 207, 197);
+}
+.green-stripe {
+    height: 125px;
+    width: auto;
+    background: rgb(150, 206, 150);
+}
+.yellow-stripe {
+    height: 125px;
+    width: auto;
+    background: rgb(230, 227, 77);
+}
